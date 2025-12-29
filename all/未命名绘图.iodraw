@@ -274,7 +274,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y6jqj8FWuSUij-awNUd1-133" value="&lt;font style=&quot;font-size: 40px&quot;&gt;布料器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="y6jqj8FWuSUij-awNUd1-133" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 40px&quot;&gt;布料器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2797" y="1330" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y6jqj8FWuSUij-awNUd1-134" value="&lt;font style=&quot;font-size: 40px&quot;&gt;点火器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
@@ -454,7 +454,7 @@
         <mxCell id="y-J1u_WCNchI-CZzZsem-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="1365" y="1910" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y-J1u_WCNchI-CZzZsem-43" value="&lt;font style=&quot;font-size: 40px&quot;&gt;鼓风机&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="y-J1u_WCNchI-CZzZsem-43" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 40px&quot;&gt;鼓风机&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3062" y="2040" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y-J1u_WCNchI-CZzZsem-49" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#EA6B66;" parent="1" vertex="1">
